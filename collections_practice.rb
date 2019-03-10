@@ -16,4 +16,5 @@ def reverse_array(integers)
   new_array 
 end
 def kesha_maker
+  kesha = []
   
