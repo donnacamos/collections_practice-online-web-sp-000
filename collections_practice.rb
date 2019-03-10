@@ -15,7 +15,7 @@ def reverse_array(integers)
   new_array = integers.reverse 
   new_array 
 end
-def kesha_maker
+def kesha_maker(array) 
   kesha = []
   array.each do |word| 
     word_array = word.split ""
