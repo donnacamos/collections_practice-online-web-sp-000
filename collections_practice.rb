@@ -5,4 +5,4 @@ def sort_array_desc(integers)
   integers.sort {|first_num, second_num| second_num <=> first_num} 
 end 
 def sort_array_char_count(strings)
-  strings.sort {
+  strings.sort {|left, right | left.length 
