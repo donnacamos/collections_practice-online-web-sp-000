@@ -22,4 +22,5 @@ def kesha_maker
     word_array[2] = "$"
     kesha << word_array.join
   end 
-  
+  kesha
+end 
