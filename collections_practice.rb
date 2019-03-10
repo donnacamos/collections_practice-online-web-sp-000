@@ -24,10 +24,10 @@ def kesha_maker(array)
   end 
   kesha
 end 
-def find_a
+def find_a(array)
   
 end
 def sum_array
 end
-def add_s
+def add_s 
 end 
